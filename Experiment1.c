@@ -9,8 +9,7 @@ char keywords[32][10] = {"auto","break","case","char","const","continue","defaul
 "sizeof","static","struct","switch","typedef","union", 
 "unsigned","void","volatile","while"}; 
 Int i, flag = 0; 
-Downloaded by Mohammed Shafeek (toxiifired@gmail.com)
-lOMoARcPSD|51944412
+
 for(i = 0; i< 32; ++i){ 
 if(strcmp(keywords[i], buffer) == 0){ 
 flag = 1; 
