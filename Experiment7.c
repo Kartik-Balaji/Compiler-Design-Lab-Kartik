@@ -5,7 +5,6 @@ char a[16],ac[20],stk[15],act[10];
 void check(); 
 int main() 
 { 
-Downloaded by Mohammed Shafeek (toxiifired@gmail.com)
  
  
       puts("GRAMMAR is E->E+E \n E->E*E \n E->(E) \n E->id"); 
