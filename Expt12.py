@@ -1,5 +1,5 @@
 # Intermediate Code Generation in Python
-
+""" x=a*b+c/d """
 str_exp = ""
 left = ""
 right = ""
