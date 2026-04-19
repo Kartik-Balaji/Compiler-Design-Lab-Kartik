@@ -1,4 +1,24 @@
+""" example case 
+Enter the maximum number of expressions: 4
 
+Enter the input (op op1 op2 result):
++
+2
+3
+t1
++
+a
+b
+t2
++
+a
+b
+t3
+*
+t1
+t2
+t4
+"""
 icode = []
 
 print("\nEnter the set of intermediate code (terminated by 'exit'):")
